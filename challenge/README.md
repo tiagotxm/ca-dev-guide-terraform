@@ -1,0 +1,5 @@
+You must complete several tasks using the Terraform development skills you've learned. As a Cloud Engineer for a large enterprise company, you received a developer request for an EC2 environment. The environment must adhere to the company policy of "everything defined in code using Terraform". You will need to create a Terraform configuration and use it to deploy the EC2 instance. The Terraform configuration must use an S3 Remote State Backend, and Terraform variables so developers can re-deploy the EC2 instance in a test environment.
+
+ 
+
+In this challenge, a Terraform development IDE has been created. You will log in using the instructions to develop and deploy the EC2 instance using Terraform. The challenge must be completed in the us-west-2 region. Only t2.micro instances, a total of 10 DynamoDB capacity units, and volumes up to 10GBs are allowed in this lab challenge. The EC2 instance must also be tagged with the name cloudacademylabs.
